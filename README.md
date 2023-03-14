@@ -3,10 +3,8 @@ Hi, I'm Joro :grin:
 I'm currently learning mechatronic and programming. :computer: :space_invader:
 
 Languages:
-
-  -Java
   
-  -Javascript
+  -Html, Css, Javascript
   
   -Python
   
