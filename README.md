@@ -1,16 +1,18 @@
-Hi, I'm Joro :grin:
+Hi, I'm Joro 👋
+I'm a Mechatronics Engineer with a bachelor's degree from UPC, and a self-taught Web Developer passionate about combining technology and creativity. I enjoy building innovative projects, sharing ideas, and continuously learning new skills.
 
-I'm currently learning mechatronic and programming. :computer: :space_invader:
+Skills
+Frontend Development:
+JavaScript, HTML, CSS, TypeScript
+React, Angular, Next.js
+Bootstrap, Tailwind
+Three.js, ThreeFiber
+Backend Development:
+C, C++, C#
+Python, MySQL, Node.js
+3D Design & CAD:
+Fusion360, Inventor, Blender
+About Me
+I'm here to share my projects—whether they're useful or just a bit crazy! I always welcome feedback and collaboration. If you see something to improve, feel free to reach out.
 
-Languages:
-  
-  -Html, Css, Javascript
-  
-  -Python
-  
-  -C,C+,C++
-  
-And I'm here to share my little or crazy projects. 
-Hope you enjoy it or if you see something to improve, I'm all ears! (or eyes since it's all letters👀).
-
-However, if someone want to contact me 📫: jose.alonsozv12@gmail.com
+📫 Contact me: jose.alonsozv12@gmail.com
