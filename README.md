@@ -21,6 +21,9 @@ I'm a **Mechatronics Engineer** with a bachelor's degree from UPC, and a self-ta
 ### 3D Design & CAD Tools:  
 - Fusion360, Inventor, Blender  
 
+### Design Tools:  
+- Figma, Adobe Illustrator  
+
 ## About Me  
 I'm here to share my projects—whether they're useful or just a bit crazy! I always welcome feedback and collaboration. If you see something to improve, feel free to reach out.  
 
