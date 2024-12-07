@@ -1,6 +1,6 @@
 # Hi, I'm Joro 👋  
 
-I'm a **Mechatronics Engineer** with a bachelor's degree from UPC, and a self-taught **Web Developer** passionate about combining technology and creativity. I enjoy building innovative projects, sharing ideas, and continuously learning new skills.  
+I'm a **Mechatronics Engineer** with a bachelor's degree from Universidad Privada de Ciencias Aplicadas (UPC), and a self-taught **Web Developer** passionate about combining technology and creativity. I enjoy building innovative projects, sharing ideas, and continuously learning new skills.  
 
 ## Skills  
 
